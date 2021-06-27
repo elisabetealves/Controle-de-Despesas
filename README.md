@@ -13,7 +13,8 @@
 ![Imagem representativa de controle de gastos](images/img1.jpg)
 
 
-<td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 100%;" src="https://unavatar.now.sh/github/elisabetealves" width="150px;" alt=""/><br /><sub><b>Elisabete Alves</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/mwlite/in/elisabete-alves-675637135">LinkedIn</a> </td>    
+## Autora
+<td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 150%;" src="https://unavatar.now.sh/github/elisabetealves" width="150px;" alt=""/><br /><sub><b>Elisabete Alves width="150px </b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/mwlite/in/elisabete-alves-675637135">LinkedIn</a> </td>    
 
 ## 📝 Licença
 
