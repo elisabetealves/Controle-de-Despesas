@@ -11,3 +11,8 @@
 <br> 
 
 ![Imagem representativa de controle de gastos](images/img1.jpg)
+
+## 📝 Licença
+
+Este projeto esta sob a licença [MIT](./LICENSE).
+
